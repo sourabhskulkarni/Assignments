@@ -31,7 +31,7 @@ console.log(`Coordinates of a location (latitude, longitude): ${coordinates}`);
 //13.Person's blood type: 'A'
 //18.Person's eye color: "Brown"
 //19.Person's birthplace: "New York City"
-interface personInfo{
+interface personInfo {
     maritalStatus: boolean,
     occupation: string,
     favouriteColour: string,
